@@ -1,3 +1,7 @@
+#ifndef SSIZE_MAX
+#define SSIZE_MAX 32767
+#endif
+
 #ifndef _KETAMA_H
 #define _KETAMA_H
 
